@@ -27,5 +27,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luka254/react-hooks-react-router-programmatic-navigation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luka254/react-hooks-react-router-programmatic-navigation/issues"
+  },
+  "homepage": "https://github.com/Luka254/react-hooks-react-router-programmatic-navigation#readme"
 }
